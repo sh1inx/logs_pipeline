@@ -2,7 +2,7 @@
 
 Este projeto é um jogo interativo de perguntas matemáticas que ajusta automaticamente a dificuldade com base no desempenho do usuário. A IA usa uma árvore de decisão para prever a dificuldade ideal com base na taxa de acerto do jogador.
 
-## 🧠 Funcionalidades
+## Funcionalidades
 
 - Geração de perguntas matemáticas com dificuldade variável
 - Adaptação automática da dificuldade com base no desempenho
@@ -11,7 +11,7 @@ Este projeto é um jogo interativo de perguntas matemáticas que ajusta automati
 - Métrica de tempo de resposta do usuário
 - Salvamento contínuo do progresso em `log_respostas.csv`
 
-## ⚙️ Instalação e Execução
+## Instalação e Execução
 
 1. Clone o repositório:
 ```bash
